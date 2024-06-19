@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int num = -1, factorial = 1;
+    int long long num = -1, factorial = 1;
 
     while (num < 0){
         cout << "Introduce un número: "; cin >> num;
